@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">EcoShare</string>
+    
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Join the EcoShare community</string>
+    <string name="splash_tagline">Share, Reuse, Make a Difference</string>
+    
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    
+    <string name="add_item">Add Item</string>
+    <string name="item_title">Item Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="condition">Condition</string>
+    <string name="type">Type</string>
+    <string name="upload_images">Upload Images</string>
+    <string name="submit">Submit</string>
+    
+    <string name="donation">Donation</string>
+    <string name="exchange">Exchange</string>
+    <string name="auction">Auction</string>
+    
+    <string name="electronics">Electronics</string>
+    <string name="clothing">Clothing</string>
+    <string name="furniture">Furniture</string>
+    <string name="books">Books</string>
+    <string name="toys">Toys</string>
+    <string name="home_garden">Home &amp; Garden</string>
+    <string name="sports">Sports</string>
+    <string name="other">Other</string>
+    
+    <string name="new_condition">New</string>
+    <string name="like_new">Like New</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="poor">Poor</string>
+    
+    <string name="item_details">Item Details</string>
+    <string name="posted_by">Posted by</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="start_auction">Start Auction</string>
+    <string name="view_auction">View Auction</string>
+    <string name="mark_as_donated">Mark as Donated</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    
+    <string name="live_auction">Live Auction</string>
+    <string name="current_bid">Current Bid</string>
+    <string name="starting_price">Starting Price</string>
+    <string name="place_bid">Place Bid</string>
+    <string name="your_bid">Your Bid</string>
+    <string name="time_remaining">Time Remaining</string>
+    <string name="bidders">Bidders</string>
+    <string name="auction_ended">Auction Ended</string>
+    <string name="winner">Winner</string>
+    
+    <string name="my_profile">My Profile</string>
+    <string name="items_listed">Items Listed</string>
+    <string name="items_donated">Items Donated</string>
+    <string name="my_badges">My Badges</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    
+    <string name="leaderboard">Leaderboard</string>
+    <string name="top_contributors">Top Contributors</string>
+    <string name="rank">Rank</string>
+    <string name="contributions">Contributions</string>
+    
+    <string name="eco_impact">Eco Impact</string>
+    <string name="items_reused">Items Reused</string>
+    <string name="co2_saved">CO₂ Saved</string>
+    <string name="trees_equivalent">Trees Equivalent</string>
+    <string name="your_impact">Your Impact</string>
+    <string name="community_impact">Community Impact</string>
+    
+    <string name="no_notifications">No notifications yet</string>
+    <string name="mark_all_read">Mark All as Read</string>
+    
+    <string name="account_settings">Account Settings</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="enable_push_notifications">Enable Push Notifications</string>
+    <string name="auction_alerts">Auction Alerts</string>
+    <string name="badge_notifications">Badge Notifications</string>
+    <string name="delete_account">Delete Account</string>
+    
+    <string name="chat">Chat</string>
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    
+    <string name="filter_by_category">Filter by Category</string>
+    <string name="all_categories">All Categories</string>
+    <string name="search">Search</string>
+    <string name="no_items_found">No items found</string>
+    
+    <string name="error_empty_field">This field cannot be empty</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_login_failed">Login failed. Please check your credentials</string>
+    <string name="error_registration_failed">Registration failed. Please try again</string>
+    <string name="error_network">Network error. Please check your connection</string>
+    <string name="error_upload_failed">Upload failed. Please try again</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_name_too_short">Name must be at least 2 characters</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_confirm_password_required">Please confirm your password</string>
+    <string name="error_passwords_dont_match">Passwords do not match</string>
+    <string name="error_user_not_found">User not found</string>
+    <string name="error_wrong_password">Incorrect password</string>
+    <string name="error_too_many_requests">Too many requests. Please try again later</string>
+    <string name="error_loading_user_data">Error loading user data</string>
+    <string name="error_email_already_exists">Email is already registered</string>
+    <string name="error_weak_password">Password is too weak</string>
+    <string name="error_creating_account">Error creating account. Please try again</string>
+    <string name="error_enter_valid_email_reset">Please enter a valid email address</string>
+    <string name="password_reset_email_sent">Password reset email sent. Check your inbox</string>
+    <string name="error_sending_reset_email">Failed to send reset email</string>
+    
+    <string name="success_item_added">Item added successfully</string>
+    <string name="success_bid_placed">Bid placed successfully</string>
+    <string name="success_profile_updated">Profile updated successfully</string>
+    
+    <string name="loading">Loading…</string>
+    <string name="please_wait">Please wait…</string>
+    
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+    <string name="confirm_delete_account">Are you sure you want to delete your account? This action cannot be undone.</string>
+    
+    <string name="badge_first_donation">First Donation</string>
+    <string name="badge_5_donations">5 Donations</string>
+    <string name="badge_10_donations">10 Donations</string>
+    <string name="badge_25_donations">25 Donations</string>
+    <string name="badge_50_donations">50 Donations</string>
+    <string name="badge_eco_warrior">Eco Warrior</string>
+    <string name="badge_auction_master">Auction Master</string>
+    
+    <string name="notification_outbid_title">You\'ve been outbid!</string>
+    <string name="notification_outbid_message">Someone placed a higher bid on %s</string>
+    <string name="notification_auction_ending_title">Auction ending soon!</string>
+    <string name="notification_auction_ending_message">%s ends in 1 hour</string>
+    <string name="notification_auction_won_title">Congratulations!</string>
+    <string name="notification_auction_won_message">You won the auction for %s</string>
+    <string name="notification_auction_lost_title">Auction ended</string>
+    <string name="notification_auction_lost_message">The auction for %s has ended</string>
+    <string name="notification_badge_earned_title">New badge earned!</string>
+    <string name="notification_badge_earned_message">You earned the %s badge</string>
+    
+    <string name="user_name">User Name</string>
+    <string name="user_email">user@example.com</string>
+    <string name="edit_profile_image">Edit profile image</string>
+    <string name="badges_earned">Badges Earned</string>
+    <string name="no_badges_yet">No badges earned yet. Start donating items to earn badges!</string>
+    <string name="badge_icon">Badge icon</string>
+    <string name="badge_name">Badge Name</string>
+    <string name="badge_description">Badge description</string>
+    <string name="member_since">Member Since</string>
+    <string name="select_image_source">Select Image Source</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="uploading_image">Uploading image…</string>
+    <string name="profile_image_updated">Profile image updated successfully</string>
+    <string name="error_uploading_image">Error uploading image. Please try again</string>
+    <string name="permission_denied">Permission denied</string>
+    
+    <string name="all">All</string>
+    <string name="item_image">Item image</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_images">Item Images</string>
+    <string name="add_image">Add Image</string>
+    <string name="item_type">Item Type</string>
+    <string name="donate">Donate</string>
+    <string name="exchange_for">Exchange For</string>
+    <string name="submit_item">Submit Item</string>
+    <string name="owner_info">Owner Information</string>
+    <string name="auction_info">Auction Information</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="share">Share</string>
+    <string name="propose_exchange">Propose Exchange</string>
+    
+    <string-array name="item_categories">
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Clothing</item>
+        <item>Books</item>
+        <item>Other</item>
+    </string-array>
+    
+    <string-array name="item_conditions">
+        <item>New</item>
+        <item>Like New</item>
+        <item>Good</item>
+        <item>Fair</item>
+    </string-array>
+</resources>
